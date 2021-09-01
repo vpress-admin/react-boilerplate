@@ -1,6 +1,7 @@
 {
-  "name": "testproj",
+  "name": "react-boilerplate",
   "version": "1.0.0",
+  "description": "Basic React boilerplate with webpack and linting",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
